@@ -4,7 +4,7 @@
 #
 Name     : mvn-minlog
 Version  : 1.3.0
-Release  : 2
+Release  : 3
 URL      : https://github.com/EsotericSoftware/minlog/archive/minlog-1.3.0.tar.gz
 Source0  : https://github.com/EsotericSoftware/minlog/archive/minlog-1.3.0.tar.gz
 Source1  : https://repo1.maven.org/maven2/com/esotericsoftware/minlog/1.3.0/minlog-1.3.0.jar
